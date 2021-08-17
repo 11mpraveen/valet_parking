@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    color: yellow;
+    background-image: url("Traffic_Safety_55.jpg");
+}
+.boldtext{
+    color: red;
+    font-weight: bold;
+}
+.square{
+    margin: auto;
+    border: 5px solid white;
+    border-width: 40px;
+    border-style:ridge;
+}
+#mycanvas{
+    background-image: url(parkingLot.jpg);
+    background-size: contain;
+    ;
+}
